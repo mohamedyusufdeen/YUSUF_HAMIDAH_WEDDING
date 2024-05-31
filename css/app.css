@@ -9,7 +9,7 @@ body {
 }
 
 .font-esthetic {
-    font-family: 'Noto Naskh Arabic' !important;
+    font-family: revert !important;
 }
 
 .font-arabic {
